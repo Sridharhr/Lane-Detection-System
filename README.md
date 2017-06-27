@@ -1,7 +1,7 @@
 # lane-detection-opencv
 
 ### About
-Advanced OpenCV for lane detection and curvature in video.
+Advanced OpenCV for lane detection and curvature.
 
 ### Data
 
